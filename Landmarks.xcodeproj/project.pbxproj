@@ -101,7 +101,7 @@
 		151C03452A55FD6F00DB64A0 /* Badge */ = {
 			isa = PBXGroup;
 			children = (
-				153CBEFE2A49FBAC00A2AB06 /* ContentView.swift */,
+				151C03432A55F90100DB64A0 /* Badge.swift */,
 				1515DFAD2A53630C00305CC7 /* HexagonParameters.swift */,
 				151C033D2A5499BF00DB64A0 /* BadgeBeckground.swift */,
 				151C03412A55F11400DB64A0 /* RotatedBadgeSymbol.swift */,
@@ -171,12 +171,12 @@
 		153CBF132A4B5F9A00A2AB06 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				153CBEFE2A49FBAC00A2AB06 /* ContentView.swift */,
 				155B06672A60649C001DCC39 /* Categories */,
 				152DB02F2A5DF52A009CBF29 /* Hikes */,
 				151C03452A55FD6F00DB64A0 /* Badge */,
 				1515DFAC2A535CC500305CC7 /* Landmarks */,
 				1515DFAB2A535CB500305CC7 /* Helpers */,
-				151C03432A55F90100DB64A0 /* Badge.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
