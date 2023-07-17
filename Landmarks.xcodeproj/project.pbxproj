@@ -38,6 +38,7 @@
 		15B07A7F2A6177E60018F00D /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B07A7E2A6177E60018F00D /* ProfileHost.swift */; };
 		15B07A812A6178D90018F00D /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B07A802A6178D90018F00D /* ProfileSummary.swift */; };
 		15B07A832A617B570018F00D /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15B07A822A617B570018F00D /* HikeBadge.swift */; };
+		15CA54332A65B5B700E74994 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15CA54322A65B5B700E74994 /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +74,7 @@
 		15B07A7E2A6177E60018F00D /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		15B07A802A6178D90018F00D /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		15B07A822A617B570018F00D /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		15CA54322A65B5B700E74994 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 			children = (
 				15B07A7E2A6177E60018F00D /* ProfileHost.swift */,
 				15B07A802A6178D90018F00D /* ProfileSummary.swift */,
+				15CA54322A65B5B700E74994 /* ProfileEditor.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 				152DB02E2A5DF270009CBF29 /* Hike.swift in Sources */,
 				151C03422A55F11400DB64A0 /* RotatedBadgeSymbol.swift in Sources */,
 				151C03402A55EB7000DB64A0 /* BadgeSymbol.swift in Sources */,
+				15CA54332A65B5B700E74994 /* ProfileEditor.swift in Sources */,
 				1515DFAE2A53630C00305CC7 /* HexagonParameters.swift in Sources */,
 				152DB0372A5DF52A009CBF29 /* HikeView.swift in Sources */,
 				153CBF1A2A4B78D500A2AB06 /* LandmarkList.swift in Sources */,
