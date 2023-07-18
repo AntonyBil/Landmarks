@@ -42,6 +42,7 @@
 		15CA54362A65D07900E74994 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15CA54352A65D07900E74994 /* PageViewController.swift */; };
 		15CA54382A65D57B00E74994 /* FeatureCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15CA54372A65D57B00E74994 /* FeatureCard.swift */; };
 		15CA543A2A65DC2E00E74994 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15CA54392A65DC2E00E74994 /* PageView.swift */; };
+		15CA543C2A6721EC00E74994 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15CA543B2A6721EC00E74994 /* PageControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +82,7 @@
 		15CA54352A65D07900E74994 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		15CA54372A65D57B00E74994 /* FeatureCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureCard.swift; sourceTree = "<group>"; };
 		15CA54392A65DC2E00E74994 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		15CA543B2A6721EC00E74994 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -194,6 +196,7 @@
 				15CA54372A65D57B00E74994 /* FeatureCard.swift */,
 				15CA54392A65DC2E00E74994 /* PageView.swift */,
 				153CBEFE2A49FBAC00A2AB06 /* ContentView.swift */,
+				15CA543B2A6721EC00E74994 /* PageControl.swift */,
 				155B06672A60649C001DCC39 /* Categories */,
 				152DB02F2A5DF52A009CBF29 /* Hikes */,
 				151C03452A55FD6F00DB64A0 /* Badge */,
@@ -322,6 +325,7 @@
 				153CBF0D2A4B511B00A2AB06 /* MapView.swift in Sources */,
 				152DB0342A5DF52A009CBF29 /* GraphCapsule.swift in Sources */,
 				153CBEFD2A49FBAC00A2AB06 /* LandmarksApp.swift in Sources */,
+				15CA543C2A6721EC00E74994 /* PageControl.swift in Sources */,
 				151C033E2A5499BF00DB64A0 /* BadgeBeckground.swift in Sources */,
 				155B066D2A607618001DCC39 /* CategoryItem.swift in Sources */,
 				152DB0362A5DF52A009CBF29 /* HikeDetail.swift in Sources */,
