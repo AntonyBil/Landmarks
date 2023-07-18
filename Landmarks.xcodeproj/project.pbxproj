@@ -157,8 +157,8 @@
 		153CBEFB2A49FBAC00A2AB06 /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
-				15CA54342A65D03600E74994 /* PageView */,
 				153CBEFC2A49FBAC00A2AB06 /* LandmarksApp.swift */,
+				15CA54342A65D03600E74994 /* PageView */,
 				153CBF132A4B5F9A00A2AB06 /* Views */,
 				15B07A7D2A6177980018F00D /* Profiles */,
 				153CBF102A4B5DD300A2AB06 /* Model */,
